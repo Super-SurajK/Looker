@@ -1,0 +1,481 @@
+Date,Campaign ID,Campaign Name,Advertising Platform,Marketing Channel,Device,Region,Impressions,Clicks,Ad Spend,Conversions,Conversion Revenue
+2026-09-01,GA-101,Search - Brand Terms,Google Ads,Search,Desktop,Tamil Nadu,1514,188,1439.65,12,25905.57
+2026-09-01,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Delhi NCR,1756,202,1536.56,16,30991.02
+2026-09-01,GA-102,Search - Generic Non-Brand,Google Ads,Search,Desktop,Delhi NCR,5751,236,5694.05,13,34363.07
+2026-09-01,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Karnataka,5106,224,3964.61,7,17531.30
+2026-09-01,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Desktop,Delhi NCR,8746,155,2232.58,8,23114.88
+2026-09-01,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Mobile,Maharashtra,9419,149,1488.91,5,9241.11
+2026-09-01,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Gujarat,8777,150,1767.59,4,7180.07
+2026-09-01,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Tablet,Gujarat,8034,167,2007.58,5,9996.40
+2026-09-01,GA-105,Display - Prospecting,Google Ads,Display,Desktop,Gujarat,15656,68,1027.36,1,1758.30
+2026-09-01,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Delhi NCR,19937,73,933.44,0,0.00
+2026-09-01,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Desktop,Karnataka,13792,148,2937.92,5,13151.75
+2026-09-01,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Karnataka,20335,184,2836.66,0,0.00
+2026-09-01,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Karnataka,7798,159,1283.46,5,11367.09
+2026-09-01,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Tablet,Karnataka,6251,125,1046.94,5,9568.45
+2026-09-01,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Delhi NCR,27831,157,1803.51,0,0.00
+2026-09-01,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Tablet,Karnataka,25578,112,1272.41,0,0.00
+2026-09-02,GA-101,Search - Brand Terms,Google Ads,Search,Desktop,Karnataka,1200,163,1644.79,18,44760.94
+2026-09-02,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Karnataka,1632,181,1344.30,9,19430.40
+2026-09-02,GA-102,Search - Generic Non-Brand,Google Ads,Search,Desktop,Gujarat,4662,193,3705.68,11,30162.96
+2026-09-02,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Karnataka,4508,118,2206.43,1,1982.73
+2026-09-02,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Desktop,Karnataka,6938,103,1341.18,8,18367.93
+2026-09-02,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Mobile,Karnataka,7481,122,1361.21,3,5906.88
+2026-09-02,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Gujarat,12778,284,2825.99,10,20120.25
+2026-09-02,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Tablet,Maharashtra,9649,177,2528.43,2,4747.94
+2026-09-02,GA-105,Display - Prospecting,Google Ads,Display,Desktop,Delhi NCR,16641,70,1195.42,0,0.00
+2026-09-02,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Karnataka,22153,74,940.61,1,2235.17
+2026-09-02,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Desktop,Tamil Nadu,20813,231,3449.99,5,10824.89
+2026-09-02,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Tamil Nadu,19716,212,2843.43,5,9935.10
+2026-09-02,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Desktop,Maharashtra,6816,139,1567.43,11,25583.14
+2026-09-02,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Karnataka,6828,131,1212.59,9,25349.21
+2026-09-02,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Gujarat,24905,145,1254.60,0,0.00
+2026-09-02,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Tablet,Delhi NCR,21108,79,903.24,1,1803.69
+2026-09-03,GA-101,Search - Brand Terms,Google Ads,Search,Desktop,Delhi NCR,1542,185,1713.02,16,29207.57
+2026-09-03,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Tamil Nadu,1554,157,1043.95,5,6415.28
+2026-09-03,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Maharashtra,5662,238,3851.35,10,19835.83
+2026-09-03,GA-102,Search - Generic Non-Brand,Google Ads,Search,Tablet,Maharashtra,4309,140,2422.89,3,5983.23
+2026-09-03,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Mobile,Karnataka,7018,94,1065.42,4,8860.49
+2026-09-03,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Tablet,Maharashtra,7786,106,1139.98,3,6887.24
+2026-09-03,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Desktop,Tamil Nadu,8123,202,2743.94,3,6284.26
+2026-09-03,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Maharashtra,10687,235,3163.15,2,3961.09
+2026-09-03,GA-105,Display - Prospecting,Google Ads,Display,Desktop,Maharashtra,23163,97,1461.75,0,0.00
+2026-09-03,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Karnataka,23580,113,1316.36,0,0.00
+2026-09-03,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Maharashtra,16286,169,2510.29,1,1579.36
+2026-09-03,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Tablet,Tamil Nadu,19209,179,2534.16,3,5731.67
+2026-09-03,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Maharashtra,6605,171,1358.33,8,14462.33
+2026-09-03,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Tablet,Delhi NCR,6465,119,1034.84,7,16101.56
+2026-09-03,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Tamil Nadu,24347,124,1045.00,2,3344.50
+2026-09-03,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Tablet,Maharashtra,24180,106,1024.89,1,1493.61
+2026-09-04,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Delhi NCR,1300,146,1185.46,7,12405.73
+2026-09-04,GA-101,Search - Brand Terms,Google Ads,Search,Tablet,Karnataka,1729,135,1032.56,20,40029.85
+2026-09-04,GA-102,Search - Generic Non-Brand,Google Ads,Search,Desktop,Tamil Nadu,4640,209,4299.42,8,18780.63
+2026-09-04,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Tamil Nadu,5306,181,3021.70,4,8153.15
+2026-09-04,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Mobile,Delhi NCR,6735,104,1252.59,7,13156.72
+2026-09-04,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Tablet,Gujarat,7871,97,912.99,1,1909.33
+2026-09-04,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Desktop,Maharashtra,14134,326,5682.53,11,26103.66
+2026-09-04,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Karnataka,11417,238,2931.09,10,19316.74
+2026-09-04,GA-105,Display - Prospecting,Google Ads,Display,Desktop,Maharashtra,22123,104,1642.71,0,0.00
+2026-09-04,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Delhi NCR,19078,82,1007.31,0,0.00
+2026-09-04,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Desktop,Karnataka,18127,247,4234.99,4,11898.79
+2026-09-04,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Tamil Nadu,20231,175,2349.49,2,3516.37
+2026-09-04,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Desktop,Maharashtra,7141,145,1443.13,7,14334.06
+2026-09-04,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Gujarat,6616,103,782.39,7,13733.63
+2026-09-04,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Delhi NCR,25256,125,1326.47,5,7792.07
+2026-09-04,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Tablet,Tamil Nadu,19561,86,782.05,0,0.00
+2026-09-05,GA-101,Search - Brand Terms,Google Ads,Search,Desktop,Tamil Nadu,1352,177,1304.66,14,31663.70
+2026-09-05,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Tamil Nadu,1438,167,1123.63,3,5863.33
+2026-09-05,GA-102,Search - Generic Non-Brand,Google Ads,Search,Desktop,Delhi NCR,4907,194,5281.79,14,31104.21
+2026-09-05,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Delhi NCR,3725,157,3545.46,7,16941.95
+2026-09-05,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Desktop,Karnataka,9819,172,2008.40,9,23414.66
+2026-09-05,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Tablet,Karnataka,9352,134,1714.27,7,14880.38
+2026-09-05,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Desktop,Karnataka,12760,229,3215.20,6,14451.43
+2026-09-05,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Tamil Nadu,10781,210,2493.30,3,5578.90
+2026-09-05,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Tamil Nadu,18876,82,738.54,1,1966.06
+2026-09-05,GA-105,Display - Prospecting,Google Ads,Display,Tablet,Karnataka,19027,53,657.44,2,3690.85
+2026-09-05,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Desktop,Delhi NCR,23588,214,4115.67,3,7480.78
+2026-09-05,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Delhi NCR,17340,169,2874.01,3,6500.27
+2026-09-05,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Desktop,Gujarat,8364,167,1378.42,10,24035.47
+2026-09-05,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Gujarat,7913,187,1428.02,3,6404.14
+2026-09-05,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Karnataka,22789,112,1172.78,0,0.00
+2026-09-05,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Tablet,Maharashtra,20902,116,1030.67,2,2845.55
+2026-09-06,GA-101,Search - Brand Terms,Google Ads,Search,Desktop,Tamil Nadu,1195,126,988.69,11,25187.85
+2026-09-06,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Karnataka,1431,150,1118.10,4,6900.79
+2026-09-06,GA-102,Search - Generic Non-Brand,Google Ads,Search,Desktop,Karnataka,4951,226,5182.72,8,19765.98
+2026-09-06,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Tamil Nadu,5216,176,3224.36,5,9297.84
+2026-09-06,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Mobile,Delhi NCR,11451,174,2090.36,4,8424.33
+2026-09-06,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Tablet,Tamil Nadu,9957,144,1477.15,5,11145.87
+2026-09-06,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Desktop,Delhi NCR,11352,271,4527.38,7,15669.73
+2026-09-06,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Delhi NCR,12493,205,3027.66,5,9284.22
+2026-09-06,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Maharashtra,20815,83,971.76,1,1933.70
+2026-09-06,GA-105,Display - Prospecting,Google Ads,Display,Tablet,Maharashtra,22705,88,1038.45,1,1844.20
+2026-09-06,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Delhi NCR,18005,182,2942.00,5,9669.76
+2026-09-06,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Tablet,Delhi NCR,20221,157,2519.76,5,11531.86
+2026-09-06,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Tamil Nadu,7861,171,1423.71,3,6140.78
+2026-09-06,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Tablet,Karnataka,6295,149,1473.58,10,25171.34
+2026-09-06,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Desktop,Karnataka,32331,150,1890.12,1,2086.16
+2026-09-06,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Delhi NCR,26316,113,1250.22,1,1537.17
+2026-09-07,GA-101,Search - Brand Terms,Google Ads,Search,Desktop,Tamil Nadu,1470,223,1571.95,10,17110.55
+2026-09-07,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Tamil Nadu,1555,167,1091.41,8,14346.26
+2026-09-07,GA-102,Search - Generic Non-Brand,Google Ads,Search,Desktop,Delhi NCR,4331,156,4127.34,10,28842.27
+2026-09-07,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Karnataka,4021,142,2770.91,6,12356.17
+2026-09-07,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Desktop,Maharashtra,7247,128,1553.17,7,15359.75
+2026-09-07,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Mobile,Maharashtra,9048,137,1466.24,4,7994.06
+2026-09-07,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Desktop,Karnataka,8138,182,2774.21,7,19627.22
+2026-09-07,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Tamil Nadu,11775,219,2440.38,8,16197.36
+2026-09-07,GA-105,Display - Prospecting,Google Ads,Display,Desktop,Maharashtra,19006,69,945.98,0,0.00
+2026-09-07,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Gujarat,20722,63,666.78,1,1679.50
+2026-09-07,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Desktop,Maharashtra,19769,218,4140.81,1,2397.02
+2026-09-07,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Delhi NCR,19946,178,2776.85,2,3623.97
+2026-09-07,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Tamil Nadu,7012,140,1014.82,5,8527.64
+2026-09-07,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Tablet,Gujarat,5743,98,690.63,5,11172.89
+2026-09-07,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Tamil Nadu,22631,133,1190.53,0,0.00
+2026-09-07,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Tablet,Delhi NCR,21293,76,857.43,1,1903.29
+2026-09-08,GA-101,Search - Brand Terms,Google Ads,Search,Desktop,Tamil Nadu,1565,208,1652.68,11,22863.21
+2026-09-08,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Maharashtra,1549,180,1130.48,7,12701.34
+2026-09-08,GA-102,Search - Generic Non-Brand,Google Ads,Search,Desktop,Tamil Nadu,5768,208,4115.15,10,25314.43
+2026-09-08,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Tamil Nadu,4529,212,3972.44,6,11284.83
+2026-09-08,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Desktop,Tamil Nadu,7871,157,2007.72,5,10510.42
+2026-09-08,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Mobile,Maharashtra,9409,160,1730.19,2,3910.17
+2026-09-08,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Karnataka,8488,156,2023.80,6,13276.88
+2026-09-08,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Tablet,Tamil Nadu,11534,163,2039.41,3,5986.58
+2026-09-08,GA-105,Display - Prospecting,Google Ads,Display,Desktop,Gujarat,29539,113,1408.63,0,0.00
+2026-09-08,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Maharashtra,20783,100,1258.35,2,3228.96
+2026-09-08,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Delhi NCR,17631,173,3039.50,1,2096.53
+2026-09-08,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Tablet,Tamil Nadu,16491,122,1684.39,0,0.00
+2026-09-08,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Desktop,Delhi NCR,6035,142,1594.46,12,34035.49
+2026-09-08,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Delhi NCR,6090,143,1171.18,3,6384.49
+2026-09-08,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Karnataka,20047,89,896.93,1,1508.73
+2026-09-08,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Tablet,Karnataka,19463,92,1068.41,2,3226.87
+2026-09-09,GA-101,Search - Brand Terms,Google Ads,Search,Desktop,Karnataka,1691,196,1647.95,14,29902.85
+2026-09-09,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Maharashtra,1479,169,1192.80,10,15153.23
+2026-09-09,GA-102,Search - Generic Non-Brand,Google Ads,Search,Desktop,Maharashtra,4176,182,3501.21,13,36040.45
+2026-09-09,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Tamil Nadu,5443,195,3712.42,7,14947.72
+2026-09-09,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Desktop,Gujarat,7534,129,1754.22,4,8751.69
+2026-09-09,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Mobile,Maharashtra,6721,75,800.06,2,4346.89
+2026-09-09,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Desktop,Karnataka,9203,152,1942.89,8,19491.75
+2026-09-09,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Karnataka,11145,227,3284.53,4,9148.62
+2026-09-09,GA-105,Display - Prospecting,Google Ads,Display,Desktop,Maharashtra,18242,87,1200.52,1,1838.79
+2026-09-09,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Maharashtra,18955,70,908.57,0,0.00
+2026-09-09,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Tamil Nadu,18475,182,2058.67,1,1669.49
+2026-09-09,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Tablet,Delhi NCR,20260,134,2245.53,0,0.00
+2026-09-09,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Desktop,Tamil Nadu,6158,133,1205.32,13,31216.79
+2026-09-09,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Tablet,Delhi NCR,8122,139,1257.49,4,9731.91
+2026-09-09,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Desktop,Maharashtra,22633,124,1532.53,0,0.00
+2026-09-09,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Maharashtra,19910,114,1058.67,1,1499.22
+2026-09-10,GA-101,Search - Brand Terms,Google Ads,Search,Desktop,Maharashtra,1213,146,1114.69,11,24032.59
+2026-09-10,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Tamil Nadu,1472,162,1146.39,9,12872.81
+2026-09-10,GA-102,Search - Generic Non-Brand,Google Ads,Search,Desktop,Maharashtra,5483,253,4757.48,6,14747.80
+2026-09-10,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Karnataka,4949,165,3275.19,5,12608.86
+2026-09-10,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Mobile,Tamil Nadu,9125,129,1354.00,2,3899.96
+2026-09-10,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Tablet,Tamil Nadu,8356,102,1146.18,2,4334.99
+2026-09-10,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Desktop,Karnataka,11901,242,3782.88,8,21875.34
+2026-09-10,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Tamil Nadu,10401,189,2179.92,2,3868.13
+2026-09-10,GA-105,Display - Prospecting,Google Ads,Display,Desktop,Karnataka,17120,58,833.68,0,0.00
+2026-09-10,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Maharashtra,17622,72,863.11,0,0.00
+2026-09-10,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Desktop,Delhi NCR,16832,198,3815.04,7,16649.90
+2026-09-10,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Delhi NCR,17243,153,2472.93,2,3808.82
+2026-09-10,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Desktop,Delhi NCR,6395,135,1509.28,15,34997.65
+2026-09-10,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Delhi NCR,7432,126,1243.11,3,5968.17
+2026-09-10,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Desktop,Maharashtra,26122,149,1878.22,1,1975.62
+2026-09-10,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Karnataka,17501,103,1093.08,1,1473.54
+2026-09-11,GA-101,Search - Brand Terms,Google Ads,Search,Desktop,Karnataka,1549,195,1935.71,20,41483.46
+2026-09-11,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Maharashtra,1340,156,1034.38,12,24123.83
+2026-09-11,GA-102,Search - Generic Non-Brand,Google Ads,Search,Desktop,Maharashtra,4583,151,2981.72,5,13510.87
+2026-09-11,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Delhi NCR,4303,171,3873.20,4,8624.57
+2026-09-11,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Mobile,Karnataka,6710,119,1313.16,4,6485.67
+2026-09-11,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Tablet,Delhi NCR,9918,126,1351.93,7,15612.96
+2026-09-11,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Tamil Nadu,10133,166,1674.73,4,7798.18
+2026-09-11,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Tablet,Maharashtra,10999,200,2788.10,5,10428.53
+2026-09-11,GA-105,Display - Prospecting,Google Ads,Display,Desktop,Delhi NCR,23331,111,1742.28,1,1769.63
+2026-09-11,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Maharashtra,19447,78,836.39,0,0.00
+2026-09-11,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Tamil Nadu,19207,176,2619.70,0,0.00
+2026-09-11,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Tablet,Delhi NCR,15905,117,1921.65,0,0.00
+2026-09-11,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Desktop,Delhi NCR,5538,119,1241.13,2,5122.01
+2026-09-11,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Gujarat,7571,153,1066.40,3,5617.15
+2026-09-11,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Desktop,Tamil Nadu,25696,134,1418.51,1,1893.82
+2026-09-11,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Tamil Nadu,20902,121,1180.00,0,0.00
+2026-09-12,GA-101,Search - Brand Terms,Google Ads,Search,Desktop,Karnataka,1350,177,1507.34,16,30908.22
+2026-09-12,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Karnataka,1584,195,1443.42,10,22658.24
+2026-09-12,GA-102,Search - Generic Non-Brand,Google Ads,Search,Desktop,Maharashtra,5034,183,3948.59,8,20052.66
+2026-09-12,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Karnataka,5426,198,3751.60,5,10905.77
+2026-09-12,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Desktop,Maharashtra,8542,156,2120.62,9,18684.42
+2026-09-12,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Tablet,Karnataka,9271,134,1409.36,11,21240.17
+2026-09-12,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Desktop,Gujarat,11116,222,3039.37,9,18817.19
+2026-09-12,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Gujarat,11048,172,1647.20,7,13691.65
+2026-09-12,GA-105,Display - Prospecting,Google Ads,Display,Desktop,Maharashtra,19328,100,1394.02,1,1835.37
+2026-09-12,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Tamil Nadu,21988,86,983.36,0,0.00
+2026-09-12,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Desktop,Tamil Nadu,21090,234,3762.24,5,10587.10
+2026-09-12,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Gujarat,19881,167,2157.54,3,5934.09
+2026-09-12,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Desktop,Delhi NCR,6786,149,1658.41,14,33817.67
+2026-09-12,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Karnataka,7195,146,1098.85,8,18222.87
+2026-09-12,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Maharashtra,27965,163,1602.35,0,0.00
+2026-09-12,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Tablet,Tamil Nadu,31206,135,1319.59,0,0.00
+2026-09-13,GA-101,Search - Brand Terms,Google Ads,Search,Desktop,Maharashtra,1434,154,1210.45,14,29535.54
+2026-09-13,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Karnataka,1578,200,1533.62,14,25992.52
+2026-09-13,GA-102,Search - Generic Non-Brand,Google Ads,Search,Desktop,Karnataka,5380,233,5187.90,6,19123.38
+2026-09-13,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Delhi NCR,4333,163,3485.49,3,6605.05
+2026-09-13,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Desktop,Tamil Nadu,8893,188,2364.74,9,17888.26
+2026-09-13,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Tablet,Delhi NCR,11178,167,2028.93,5,12299.48
+2026-09-13,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Desktop,Maharashtra,10574,246,3591.66,7,17302.52
+2026-09-13,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Karnataka,12082,279,3645.92,7,14865.28
+2026-09-13,GA-105,Display - Prospecting,Google Ads,Display,Desktop,Karnataka,21229,84,1281.85,3,6902.50
+2026-09-13,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Delhi NCR,19884,64,784.11,0,0.00
+2026-09-13,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Desktop,Delhi NCR,22297,194,3663.38,4,9339.90
+2026-09-13,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Maharashtra,15484,155,2426.36,0,0.00
+2026-09-13,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Tamil Nadu,5976,129,949.23,2,3410.24
+2026-09-13,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Tablet,Gujarat,6861,108,713.42,7,14983.61
+2026-09-13,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Desktop,Karnataka,26011,135,1840.51,0,0.00
+2026-09-13,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Maharashtra,26231,159,1510.40,0,0.00
+2026-09-14,GA-101,Search - Brand Terms,Google Ads,Search,Desktop,Karnataka,1787,221,1781.70,29,66164.48
+2026-09-14,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Maharashtra,1446,208,1469.98,13,19847.44
+2026-09-14,GA-102,Search - Generic Non-Brand,Google Ads,Search,Desktop,Delhi NCR,5070,182,4701.68,6,14601.23
+2026-09-14,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Karnataka,6391,213,3366.02,0,0.00
+2026-09-14,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Mobile,Karnataka,5925,123,1384.48,1,2072.75
+2026-09-14,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Tablet,Gujarat,7735,101,952.10,5,10518.79
+2026-09-14,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Desktop,Karnataka,10684,228,3285.21,7,18222.00
+2026-09-14,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Maharashtra,9220,158,1940.91,8,19023.21
+2026-09-14,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Gujarat,20326,66,807.20,0,0.00
+2026-09-14,GA-105,Display - Prospecting,Google Ads,Display,Tablet,Karnataka,19959,63,801.72,1,1689.52
+2026-09-14,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Delhi NCR,17938,156,2811.15,1,2061.70
+2026-09-14,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Tablet,Delhi NCR,21031,190,3375.67,5,9116.48
+2026-09-14,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Desktop,Delhi NCR,5816,132,1467.11,8,22498.05
+2026-09-14,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Tamil Nadu,7238,133,1025.56,5,9844.08
+2026-09-14,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Delhi NCR,17755,87,998.12,1,1455.84
+2026-09-14,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Tablet,Delhi NCR,19353,81,976.69,0,0.00
+2026-09-15,GA-101,Search - Brand Terms,Google Ads,Search,Desktop,Delhi NCR,1331,149,1387.18,13,28729.36
+2026-09-15,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Maharashtra,1386,176,1183.14,9,14959.34
+2026-09-15,GA-102,Search - Generic Non-Brand,Google Ads,Search,Desktop,Karnataka,4354,199,4378.60,8,21180.91
+2026-09-15,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Karnataka,4176,156,2891.13,4,8537.27
+2026-09-15,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Desktop,Karnataka,10647,194,2712.26,10,22889.58
+2026-09-15,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Mobile,Delhi NCR,8427,118,1445.82,2,4269.42
+2026-09-15,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Karnataka,10915,209,2933.68,12,25949.24
+2026-09-15,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Tablet,Tamil Nadu,9592,139,1687.09,2,3367.73
+2026-09-15,GA-105,Display - Prospecting,Google Ads,Display,Desktop,Delhi NCR,22286,119,2043.91,1,1802.63
+2026-09-15,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Maharashtra,16941,70,850.09,0,0.00
+2026-09-15,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Desktop,Delhi NCR,16711,165,3339.27,4,10195.62
+2026-09-15,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Tamil Nadu,17478,176,2312.74,3,5125.88
+2026-09-15,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Karnataka,7237,141,1259.95,5,8679.45
+2026-09-15,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Tablet,Maharashtra,5222,71,573.61,4,9625.51
+2026-09-15,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Desktop,Delhi NCR,21035,106,1565.10,3,6210.43
+2026-09-15,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Karnataka,21461,119,1206.50,0,0.00
+2026-09-16,GA-101,Search - Brand Terms,Google Ads,Search,Desktop,Maharashtra,1349,158,1345.11,11,26313.24
+2026-09-16,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Delhi NCR,1664,178,1303.36,8,14026.48
+2026-09-16,GA-102,Search - Generic Non-Brand,Google Ads,Search,Desktop,Delhi NCR,4017,165,4071.31,14,37085.68
+2026-09-16,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Delhi NCR,4536,188,3512.14,6,16117.57
+2026-09-16,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Desktop,Delhi NCR,8290,131,2018.95,8,21232.05
+2026-09-16,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Mobile,Karnataka,9344,156,1896.51,3,5478.53
+2026-09-16,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Desktop,Delhi NCR,10256,205,3631.13,6,15705.34
+2026-09-16,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Delhi NCR,8425,175,2380.02,5,9892.46
+2026-09-16,GA-105,Display - Prospecting,Google Ads,Display,Desktop,Tamil Nadu,16566,66,895.62,0,0.00
+2026-09-16,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Tamil Nadu,20747,74,741.13,0,0.00
+2026-09-16,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Desktop,Maharashtra,28954,312,7294.76,6,12378.55
+2026-09-16,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Tamil Nadu,26752,251,4398.82,5,11381.32
+2026-09-16,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Desktop,Delhi NCR,6943,179,2109.96,15,37868.69
+2026-09-16,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Delhi NCR,6451,152,1290.80,4,7462.83
+2026-09-16,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Desktop,Tamil Nadu,20254,109,1165.29,0,0.00
+2026-09-16,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Gujarat,21082,114,988.80,0,0.00
+2026-09-17,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Gujarat,1361,120,705.59,7,15748.21
+2026-09-17,GA-101,Search - Brand Terms,Google Ads,Search,Tablet,Delhi NCR,1658,156,1176.39,13,30050.89
+2026-09-17,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Tamil Nadu,5600,198,2989.46,1,2267.45
+2026-09-17,GA-102,Search - Generic Non-Brand,Google Ads,Search,Tablet,Karnataka,4979,176,3740.56,3,7959.43
+2026-09-17,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Desktop,Delhi NCR,7101,126,1723.48,8,20279.08
+2026-09-17,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Mobile,Delhi NCR,8284,153,2018.17,4,7127.32
+2026-09-17,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Desktop,Karnataka,11982,228,3461.40,9,24567.61
+2026-09-17,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Maharashtra,10047,195,2389.19,8,17761.36
+2026-09-17,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Delhi NCR,13266,49,693.67,0,0.00
+2026-09-17,GA-105,Display - Prospecting,Google Ads,Display,Tablet,Gujarat,17124,64,698.27,0,0.00
+2026-09-17,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Delhi NCR,31847,330,5933.76,6,10921.88
+2026-09-17,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Tablet,Delhi NCR,29962,231,4736.74,2,4715.60
+2026-09-17,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Desktop,Gujarat,4832,130,1307.05,7,17760.71
+2026-09-17,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Maharashtra,6652,147,1256.10,6,11289.82
+2026-09-17,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Delhi NCR,20352,107,1120.72,0,0.00
+2026-09-17,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Tablet,Tamil Nadu,19361,93,924.43,0,0.00
+2026-09-18,GA-101,Search - Brand Terms,Google Ads,Search,Desktop,Delhi NCR,1194,130,1033.20,13,29753.43
+2026-09-18,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Gujarat,1486,192,1201.93,8,14114.85
+2026-09-18,GA-102,Search - Generic Non-Brand,Google Ads,Search,Desktop,Gujarat,4733,222,4186.21,4,11503.00
+2026-09-18,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Karnataka,4695,180,3469.85,5,10504.34
+2026-09-18,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Desktop,Delhi NCR,7671,110,1645.56,9,22964.55
+2026-09-18,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Mobile,Tamil Nadu,6988,106,1101.29,5,8439.07
+2026-09-18,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Desktop,Delhi NCR,10535,210,2992.93,11,31722.25
+2026-09-18,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Delhi NCR,10096,216,3324.85,8,19161.59
+2026-09-18,GA-105,Display - Prospecting,Google Ads,Display,Desktop,Maharashtra,22119,124,1837.19,2,5151.72
+2026-09-18,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Gujarat,19045,66,717.01,0,0.00
+2026-09-18,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Tamil Nadu,30051,303,4905.72,3,4878.82
+2026-09-18,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Tablet,Tamil Nadu,27816,214,3840.96,4,7887.68
+2026-09-18,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Desktop,Maharashtra,7173,126,1189.00,9,22783.85
+2026-09-18,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Gujarat,6060,106,707.51,4,8109.91
+2026-09-18,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Delhi NCR,20199,102,1103.57,0,0.00
+2026-09-18,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Tablet,Delhi NCR,25051,143,1575.97,4,6952.01
+2026-09-19,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Karnataka,1414,174,1156.90,12,26196.20
+2026-09-19,GA-101,Search - Brand Terms,Google Ads,Search,Tablet,Karnataka,1528,166,1227.07,5,12423.57
+2026-09-19,GA-102,Search - Generic Non-Brand,Google Ads,Search,Desktop,Delhi NCR,4915,187,4437.32,17,44487.49
+2026-09-19,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Maharashtra,4904,186,3438.96,5,12450.45
+2026-09-19,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Mobile,Delhi NCR,8674,126,1452.68,2,4368.58
+2026-09-19,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Tablet,Karnataka,9959,124,1263.38,7,14956.66
+2026-09-19,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Desktop,Tamil Nadu,10769,230,3326.30,6,14084.88
+2026-09-19,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Maharashtra,8916,145,1785.40,6,13642.17
+2026-09-19,GA-105,Display - Prospecting,Google Ads,Display,Desktop,Karnataka,26074,127,1885.74,2,3307.23
+2026-09-19,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Karnataka,21970,96,1285.08,1,1794.74
+2026-09-19,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Karnataka,30008,266,4283.60,4,7425.21
+2026-09-19,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Tablet,Maharashtra,28797,257,4426.87,3,5673.67
+2026-09-19,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Desktop,Delhi NCR,7763,188,2243.90,16,41570.53
+2026-09-19,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Maharashtra,6549,119,945.91,4,7344.77
+2026-09-19,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Desktop,Maharashtra,22173,126,1713.62,1,1762.16
+2026-09-19,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Gujarat,25261,152,1389.17,1,1719.07
+2026-09-20,GA-101,Search - Brand Terms,Google Ads,Search,Desktop,Maharashtra,1734,218,1977.67,18,36064.02
+2026-09-20,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Maharashtra,1374,166,1312.97,8,13555.88
+2026-09-20,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Tamil Nadu,5840,243,4154.36,4,8787.26
+2026-09-20,GA-102,Search - Generic Non-Brand,Google Ads,Search,Tablet,Delhi NCR,4075,131,2591.45,9,22181.45
+2026-09-20,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Desktop,Maharashtra,8912,146,2099.00,8,18318.33
+2026-09-20,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Mobile,Delhi NCR,8305,122,1425.03,5,11189.08
+2026-09-20,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Desktop,Delhi NCR,9554,195,3044.07,14,43373.57
+2026-09-20,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Delhi NCR,12969,320,4048.60,4,10807.59
+2026-09-20,GA-105,Display - Prospecting,Google Ads,Display,Desktop,Maharashtra,20950,89,1219.94,0,0.00
+2026-09-20,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Maharashtra,21376,94,1033.25,0,0.00
+2026-09-20,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Tamil Nadu,34032,326,5275.22,3,5434.51
+2026-09-20,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Tablet,Maharashtra,31630,254,4810.43,3,6666.31
+2026-09-20,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Desktop,Delhi NCR,7412,153,1711.33,13,34749.52
+2026-09-20,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Tablet,Gujarat,7597,104,803.84,1,2078.98
+2026-09-20,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Delhi NCR,26269,155,1846.79,0,0.00
+2026-09-20,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Tablet,Maharashtra,27791,133,1461.89,2,4065.69
+2026-09-21,GA-101,Search - Brand Terms,Google Ads,Search,Desktop,Maharashtra,1746,262,2007.71,31,74691.01
+2026-09-21,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Maharashtra,1599,167,1091.18,11,21877.63
+2026-09-21,GA-102,Search - Generic Non-Brand,Google Ads,Search,Desktop,Delhi NCR,4621,238,5646.82,7,17882.55
+2026-09-21,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Gujarat,4422,169,2569.69,3,7419.06
+2026-09-21,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Mobile,Karnataka,8725,130,1523.55,4,8288.49
+2026-09-21,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Tablet,Karnataka,8653,128,1508.08,5,10538.88
+2026-09-21,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Maharashtra,9048,187,2107.62,8,17049.81
+2026-09-21,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Tablet,Karnataka,9816,157,1892.67,6,15082.61
+2026-09-21,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Maharashtra,22329,86,1063.47,0,0.00
+2026-09-21,GA-105,Display - Prospecting,Google Ads,Display,Tablet,Gujarat,22824,74,796.66,0,0.00
+2026-09-21,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Delhi NCR,26092,273,4981.02,1,2115.57
+2026-09-21,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Tablet,Maharashtra,34936,282,4815.02,4,9008.27
+2026-09-21,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Desktop,Delhi NCR,6955,157,1758.43,12,35880.39
+2026-09-21,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Tamil Nadu,6580,145,1139.30,3,5149.02
+2026-09-21,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Maharashtra,22789,99,1015.60,0,0.00
+2026-09-21,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Tablet,Maharashtra,21855,78,872.30,0,0.00
+2026-09-22,GA-101,Search - Brand Terms,Google Ads,Search,Desktop,Karnataka,1435,195,1787.48,18,38597.18
+2026-09-22,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Maharashtra,1331,136,1110.24,3,5777.89
+2026-09-22,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Delhi NCR,4635,187,3972.49,11,23777.57
+2026-09-22,GA-102,Search - Generic Non-Brand,Google Ads,Search,Tablet,Tamil Nadu,3797,115,1965.84,4,9216.40
+2026-09-22,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Desktop,Delhi NCR,6811,80,1119.57,3,7607.40
+2026-09-22,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Mobile,Maharashtra,8232,104,1239.37,2,4390.79
+2026-09-22,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Desktop,Maharashtra,9269,232,3247.46,14,32964.75
+2026-09-22,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Delhi NCR,8892,147,2163.76,4,10273.98
+2026-09-22,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Karnataka,18633,77,1010.07,0,0.00
+2026-09-22,GA-105,Display - Prospecting,Google Ads,Display,Tablet,Karnataka,21837,58,778.53,1,1923.64
+2026-09-22,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Desktop,Karnataka,22111,277,6079.83,9,20646.12
+2026-09-22,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Delhi NCR,27362,224,4394.22,4,7226.85
+2026-09-22,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Desktop,Delhi NCR,7960,151,1632.69,8,20700.19
+2026-09-22,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Maharashtra,6308,146,1289.83,9,17160.43
+2026-09-22,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Maharashtra,25030,168,1840.99,2,2778.31
+2026-09-22,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Tablet,Maharashtra,21301,98,1009.79,1,1536.63
+2026-09-23,GA-101,Search - Brand Terms,Google Ads,Search,Desktop,Tamil Nadu,1558,203,1438.99,15,29938.34
+2026-09-23,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Tamil Nadu,1444,159,1073.18,2,3447.54
+2026-09-23,GA-102,Search - Generic Non-Brand,Google Ads,Search,Desktop,Maharashtra,4644,193,4314.38,11,26592.21
+2026-09-23,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Karnataka,5164,192,3625.68,5,10552.37
+2026-09-23,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Desktop,Karnataka,7655,157,2342.64,11,22464.57
+2026-09-23,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Mobile,Maharashtra,8289,145,1595.98,5,9749.30
+2026-09-23,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Desktop,Karnataka,8544,192,2726.26,11,25878.76
+2026-09-23,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Tamil Nadu,9465,179,1884.57,4,8094.53
+2026-09-23,GA-105,Display - Prospecting,Google Ads,Display,Desktop,Tamil Nadu,18448,65,818.73,3,6057.52
+2026-09-23,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Maharashtra,18123,77,898.18,0,0.00
+2026-09-23,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Maharashtra,29073,304,4918.08,4,7258.64
+2026-09-23,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Tablet,Maharashtra,30028,241,4064.54,5,10379.71
+2026-09-23,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Maharashtra,6356,107,890.16,6,11397.89
+2026-09-23,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Tablet,Karnataka,7336,146,1348.11,18,45474.80
+2026-09-23,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Desktop,Gujarat,31637,165,1691.90,3,5720.59
+2026-09-23,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Tamil Nadu,22776,88,839.86,0,0.00
+2026-09-24,GA-101,Search - Brand Terms,Google Ads,Search,Desktop,Delhi NCR,1171,163,1678.16,8,20742.76
+2026-09-24,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Tamil Nadu,1708,169,989.17,6,9398.50
+2026-09-24,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Delhi NCR,5670,221,5121.62,6,13317.82
+2026-09-24,GA-102,Search - Generic Non-Brand,Google Ads,Search,Tablet,Gujarat,3739,115,1931.75,3,7361.65
+2026-09-24,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Mobile,Gujarat,7100,112,1173.01,3,6512.33
+2026-09-24,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Tablet,Maharashtra,8282,114,1235.09,5,12724.40
+2026-09-24,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Gujarat,10485,236,2708.07,8,17750.08
+2026-09-24,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Tablet,Delhi NCR,8418,107,1371.57,5,12251.50
+2026-09-24,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Maharashtra,18008,75,853.78,0,0.00
+2026-09-24,GA-105,Display - Prospecting,Google Ads,Display,Tablet,Maharashtra,25390,81,943.37,1,1517.83
+2026-09-24,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Tamil Nadu,27938,265,4470.08,5,8578.82
+2026-09-24,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Tablet,Delhi NCR,31002,282,5284.47,3,5743.38
+2026-09-24,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Desktop,Karnataka,7285,166,1840.12,5,12698.34
+2026-09-24,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Maharashtra,4975,123,1059.77,1,2118.44
+2026-09-24,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Delhi NCR,20423,123,1389.12,0,0.00
+2026-09-24,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Tablet,Delhi NCR,26212,105,1219.40,1,1824.82
+2026-09-25,GA-101,Search - Brand Terms,Google Ads,Search,Desktop,Karnataka,1533,203,1867.63,16,35038.43
+2026-09-25,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Karnataka,1580,176,1323.75,10,15439.78
+2026-09-25,GA-102,Search - Generic Non-Brand,Google Ads,Search,Desktop,Maharashtra,4135,191,3962.60,8,18968.58
+2026-09-25,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Maharashtra,4415,153,2799.00,5,10877.87
+2026-09-25,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Desktop,Maharashtra,8735,146,2010.48,13,27791.23
+2026-09-25,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Mobile,Maharashtra,9797,170,1781.46,8,15321.12
+2026-09-25,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Desktop,Gujarat,9651,180,2344.52,6,14696.94
+2026-09-25,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Maharashtra,10576,206,2630.09,5,12017.57
+2026-09-25,GA-105,Display - Prospecting,Google Ads,Display,Desktop,Maharashtra,21442,82,1130.64,0,0.00
+2026-09-25,GA-105,Display - Prospecting,Google Ads,Display,Tablet,Tamil Nadu,24040,82,858.95,2,3394.93
+2026-09-25,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Karnataka,24252,272,5542.06,6,10556.42
+2026-09-25,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Tablet,Karnataka,24914,176,3127.29,1,2038.76
+2026-09-25,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Desktop,Tamil Nadu,7412,170,1602.64,7,13589.39
+2026-09-25,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Delhi NCR,6222,128,1045.11,7,15129.03
+2026-09-25,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Karnataka,21407,97,1108.86,1,1654.34
+2026-09-25,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Tablet,Karnataka,24834,143,1392.47,1,1849.95
+2026-09-26,GA-101,Search - Brand Terms,Google Ads,Search,Desktop,Tamil Nadu,1551,189,1501.30,16,37340.30
+2026-09-26,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Delhi NCR,1674,222,1810.12,7,15077.48
+2026-09-26,GA-102,Search - Generic Non-Brand,Google Ads,Search,Desktop,Gujarat,5468,253,5281.81,6,13851.79
+2026-09-26,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Karnataka,4921,172,3363.70,6,13891.16
+2026-09-26,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Desktop,Karnataka,8539,147,2031.10,7,14287.63
+2026-09-26,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Mobile,Delhi NCR,7860,135,1503.82,2,4420.64
+2026-09-26,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Karnataka,11064,171,1888.47,6,13555.07
+2026-09-26,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Tablet,Gujarat,11885,208,2350.70,7,12898.05
+2026-09-26,GA-105,Display - Prospecting,Google Ads,Display,Desktop,Gujarat,21645,95,1272.55,1,1735.36
+2026-09-26,GA-105,Display - Prospecting,Google Ads,Display,Tablet,Gujarat,21823,77,855.97,1,1847.57
+2026-09-26,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Desktop,Tamil Nadu,34051,321,6527.59,6,12680.83
+2026-09-26,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Karnataka,33005,339,5829.77,7,15331.24
+2026-09-26,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Tamil Nadu,7478,172,1346.99,8,14237.91
+2026-09-26,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Tablet,Maharashtra,8167,105,909.79,6,12568.00
+2026-09-26,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Delhi NCR,29292,143,1808.38,1,1534.70
+2026-09-26,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Tablet,Karnataka,28234,137,1436.34,2,3033.04
+2026-09-27,GA-101,Search - Brand Terms,Google Ads,Search,Desktop,Maharashtra,2029,292,2661.46,36,83181.80
+2026-09-27,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Tamil Nadu,1962,273,1801.14,7,12780.73
+2026-09-27,GA-102,Search - Generic Non-Brand,Google Ads,Search,Desktop,Delhi NCR,4760,183,4334.05,3,8429.47
+2026-09-27,GA-102,Search - Generic Non-Brand,Google Ads,Search,Tablet,Tamil Nadu,4529,128,2248.45,9,21927.65
+2026-09-27,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Mobile,Karnataka,12569,263,2870.44,11,23014.00
+2026-09-27,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Tablet,Karnataka,8287,137,1542.18,8,16926.96
+2026-09-27,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Desktop,Maharashtra,13061,293,4088.12,15,33017.41
+2026-09-27,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Delhi NCR,11628,246,3325.45,5,11397.24
+2026-09-27,GA-105,Display - Prospecting,Google Ads,Display,Desktop,Delhi NCR,23591,112,1583.08,1,1875.13
+2026-09-27,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Maharashtra,18834,73,752.85,0,0.00
+2026-09-27,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Desktop,Delhi NCR,29684,272,6852.24,3,7109.36
+2026-09-27,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Tamil Nadu,25973,263,4516.35,2,3784.39
+2026-09-27,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Karnataka,6881,134,1106.77,5,11165.88
+2026-09-27,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Tablet,Maharashtra,8879,155,1269.38,5,10086.20
+2026-09-27,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Delhi NCR,24953,150,1770.05,0,0.00
+2026-09-27,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Tablet,Delhi NCR,23239,103,1153.58,0,0.00
+2026-09-28,GA-101,Search - Brand Terms,Google Ads,Search,Desktop,Maharashtra,1454,186,1595.01,18,35666.91
+2026-09-28,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Karnataka,1076,117,903.62,2,3634.19
+2026-09-28,GA-102,Search - Generic Non-Brand,Google Ads,Search,Desktop,Delhi NCR,4477,176,4053.06,6,14308.26
+2026-09-28,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Karnataka,5496,235,4369.63,16,35002.30
+2026-09-28,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Desktop,Tamil Nadu,9609,162,1762.82,6,14899.55
+2026-09-28,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Mobile,Maharashtra,7474,140,1499.08,0,0.00
+2026-09-28,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Desktop,Delhi NCR,10917,232,3834.61,13,36213.58
+2026-09-28,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Karnataka,9190,168,2017.64,5,13136.68
+2026-09-28,GA-105,Display - Prospecting,Google Ads,Display,Desktop,Karnataka,24229,108,1446.76,2,3931.50
+2026-09-28,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Delhi NCR,17771,84,911.20,1,1977.16
+2026-09-28,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Maharashtra,27044,211,3846.94,3,4690.33
+2026-09-28,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Tablet,Maharashtra,32795,262,5022.82,5,10293.10
+2026-09-28,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Desktop,Karnataka,8533,196,1969.79,14,30363.04
+2026-09-28,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Karnataka,6582,138,1156.41,14,27796.94
+2026-09-28,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Maharashtra,21044,98,951.51,0,0.00
+2026-09-28,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Tablet,Delhi NCR,23250,108,1293.38,0,0.00
+2026-09-29,GA-101,Search - Brand Terms,Google Ads,Search,Desktop,Delhi NCR,1535,205,2108.28,21,53352.19
+2026-09-29,GA-101,Search - Brand Terms,Google Ads,Search,Tablet,Maharashtra,1164,105,773.38,10,20959.32
+2026-09-29,GA-102,Search - Generic Non-Brand,Google Ads,Search,Desktop,Karnataka,4396,178,3862.25,4,9832.76
+2026-09-29,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Delhi NCR,4708,210,4474.18,3,7446.29
+2026-09-29,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Mobile,Delhi NCR,6978,102,1296.97,2,4005.32
+2026-09-29,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Tablet,Delhi NCR,7936,91,1081.54,3,6260.12
+2026-09-29,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Desktop,Delhi NCR,11204,220,3534.55,10,25323.99
+2026-09-29,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Delhi NCR,10590,196,2678.59,9,21020.60
+2026-09-29,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Delhi NCR,15013,64,886.01,0,0.00
+2026-09-29,GA-105,Display - Prospecting,Google Ads,Display,Tablet,Delhi NCR,18881,56,672.64,0,0.00
+2026-09-29,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Delhi NCR,28188,246,4374.48,6,13716.69
+2026-09-29,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Tablet,Karnataka,25828,238,4225.80,2,4048.27
+2026-09-29,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Desktop,Tamil Nadu,7734,147,1213.89,13,34068.74
+2026-09-29,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Maharashtra,6722,131,1107.46,5,8663.77
+2026-09-29,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Karnataka,23201,138,1541.28,2,3323.12
+2026-09-29,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Tablet,Maharashtra,21705,106,1090.29,0,0.00
+2026-09-30,GA-101,Search - Brand Terms,Google Ads,Search,Desktop,Delhi NCR,1602,199,1811.87,21,57363.17
+2026-09-30,GA-101,Search - Brand Terms,Google Ads,Search,Mobile,Maharashtra,1297,141,981.05,6,11569.37
+2026-09-30,GA-102,Search - Generic Non-Brand,Google Ads,Search,Desktop,Gujarat,5744,225,4437.68,9,22175.18
+2026-09-30,GA-102,Search - Generic Non-Brand,Google Ads,Search,Mobile,Gujarat,5241,179,2631.57,6,14482.61
+2026-09-30,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Desktop,Maharashtra,8079,137,1901.71,7,16788.09
+2026-09-30,GA-103,Shopping - Bestsellers,Google Ads,Shopping,Mobile,Delhi NCR,7842,130,1573.84,4,8326.39
+2026-09-30,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Desktop,Maharashtra,11182,236,3486.84,8,16487.00
+2026-09-30,GA-104,Performance Max - Catalog,Google Ads,Performance Max,Mobile,Tamil Nadu,10503,198,2271.00,6,11117.15
+2026-09-30,GA-105,Display - Prospecting,Google Ads,Display,Desktop,Delhi NCR,25044,93,1359.14,0,0.00
+2026-09-30,GA-105,Display - Prospecting,Google Ads,Display,Mobile,Tamil Nadu,19826,64,707.78,1,1517.22
+2026-09-30,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Desktop,Delhi NCR,31114,320,7241.92,3,8020.30
+2026-09-30,MA-201,Meta - Prospecting Lookalike,Meta Ads,Paid Social,Mobile,Maharashtra,23608,235,4168.70,3,5294.15
+2026-09-30,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Mobile,Karnataka,7623,141,1214.02,5,10181.00
+2026-09-30,MA-202,Meta - Retargeting DPA,Meta Ads,Paid Social,Tablet,Maharashtra,7298,114,1010.96,4,8108.60
+2026-09-30,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Mobile,Karnataka,27311,181,1901.91,1,1351.20
+2026-09-30,MA-203,Meta - Reels Awareness,Meta Ads,Social Video,Tablet,Karnataka,24754,111,1112.45,2,4062.99
